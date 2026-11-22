@@ -1,4 +1,4 @@
-# Aurora Pulse
+# Aurora Pulso
 
 Ferramenta leve de linha de comando para monitorar filas de tarefas e gerar relatórios diários em JSON.
 
